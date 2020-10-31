@@ -1,4 +1,5 @@
 # MIThomework
 All about this project
-for Fan Zhang,Ph.D.
+thanks for Fan Zhang,Ph.D.
+![https://github.com/mementolim/MIThomework/blob/master/quickresult.gif]
 Thanks!
